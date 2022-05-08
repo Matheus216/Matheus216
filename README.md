@@ -12,12 +12,25 @@ Besides programming I like movies, series and good books for my spare time.
 
 - 💬 Ask me about everything, but without guarantees of an answer, what we don't know we will find together 
 
-<img  src="./avatar.png"  width="150" height="250"/>
+<div>
+  <img  src="./avatar.png"  width="150" height="250"/>
+</div>
+
+<br />
+
 <div> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" width="40" height="40"/>      
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40" height="40"/>          
+</div>
+ 
+ <br />
+
+<div>
+<a href="https://github.com/Matheus216">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus216&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Matheus216&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
 ### Contacts:

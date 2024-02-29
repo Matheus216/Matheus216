@@ -1,7 +1,7 @@
 
 ## :raising_hand: Hello! Welcome to my Github profile. 
 
-### My name is Matheus martins!
+### My name is <b>Matheus Mmatins</b>!
 
 Besides programming I like movies, series and good books for my spare time.
 

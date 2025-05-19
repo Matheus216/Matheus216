@@ -1,16 +1,13 @@
 
-## :raising_hand: Hello! Welcome to my Github profile. 
+## :raising_hand: Hello! Welcome to my garage. 
 
 ### My name is <strong>Matheus Martins</strong>!
 
-Besides programming I like movies, series and good books for my spare time.
+Passionate about backend programming since the beginning.
 
+    🔭 Currently working as a web developer
 
-- 🔭 I’m currently working at a financial market company 
-
-- 🌱 I’m currently learning typescript and some frameworks as react, next, and backend in node
-
-- 💬 Ask me about everything, but without guarantees of an answer, what we don't know we will find together 
+    🌱 Exploring low-level programming to strengthen my core technical skills
 
 <div>
   <img  src="./avatar.png"  width="150" height="250"/>
